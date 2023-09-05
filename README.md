@@ -1,7 +1,6 @@
 link dataset : https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo
 
-# Online Retail Cohort Analysis
-
+# Online Retail Analysis : Unveiling Customer Insights for Growth
 ## Introduction
 
 Welcome to the Online Retail Cohort Analysis project! This section provides an overview of the project's objectives and significance.
